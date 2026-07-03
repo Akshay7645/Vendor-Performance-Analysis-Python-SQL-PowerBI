@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.venv/
+venv/
+
+# Temporary files
+*.log
+# Large raw datasets
+Raw_Dataset/
+Raw_Dataset/purchases.csv
+Raw_Dataset/sales.csv
