@@ -1,4 +1,4 @@
-#  Vendor Performance Analysis using Python & Power BI
+#  Vendor Performance Analysis using Python SQL & Power BI
 
 <p align="center">
 
